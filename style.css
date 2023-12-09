@@ -1,0 +1,43 @@
+@import url(https://fonts.google.com/specimen/Pacifico?preview.size=20);
+*{
+    margin: 0;
+    padding : 0;
+    box-sizing:border-box;
+    font-family:montserrat;
+}
+.sidebar{
+    background-color: red;
+    width: 800vw;
+
+html,body{
+    height:relative;
+    width: 100%;
+}
+    
+}
+.sidebar nav{
+    padding: 50px;
+
+}
+.sidebar nav li{
+    list-style: tyt;
+    font-size: 90;
+}
+.main{
+    background-color: rgb(200, 200, 21);
+    width: 80vw;
+        
+}
+.container{
+    
+    display: flex;
+}
+.infoContainer{
+    background-color: rgb(28, 195, 181);
+    height: 85vw;
+    width: 099;
+    margin: 144px auto;
+
+
+}
+
